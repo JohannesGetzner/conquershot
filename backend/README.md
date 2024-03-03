@@ -1,7 +1,5 @@
 # ConquerShot Backend
-
-This is the repository of all backend implementation of the project [**ConquerShot**](https://devpost.com/software/conquershot) for [hackaTUM 2022](https://hack.tum.de/), contributed by [Mariz Samir Awad](https://github.com/marzi333), [Johannes Getzner](https://github.com/JohannesGetzner), [Zhuoling Li](https://github.com/joelynli0110) and [Melanie Maier](https://github.com/mmmaier). The project is submitted for the challenge "Open Digital Earth Reconstruction" which is sponsored by Huawei. 
-
+This folder contains the code for the python backend.
 # Getting Started
 ## Requirements
 
