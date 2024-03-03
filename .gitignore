@@ -1,0 +1,31 @@
+# Ignore Python bytecode files, and cache directories
+**/__pycache__/
+*.pyc
+
+# Ignore development and runtime artifacts
+/build/
+/dist/
+
+# Ignore environment files
+.env*
+
+# Ignore log files
+*.log
+
+# Ignore Visual Studio Code directory
+.vscode/
+
+# Ignore IntelliJ IDEA directories
+.idea/
+
+# Ignore user-specific files
+*.iml
+*.iws
+*.ipr
+*.iws
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Node.js related files and directories
+/frontend/node_modules/
